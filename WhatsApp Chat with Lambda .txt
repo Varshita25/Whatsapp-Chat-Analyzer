@@ -1,0 +1,1073 @@
+27/08/24, 9:26 pm - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+27/10/23, 2:12 pm - +91 97396 90819 created group "Lambda "
+27/10/23, 2:12 pm - You were added
+28/08/24, 11:37 am - Paramesh Sir Mtech: @917022475579,
+Drop the CS attendance here.
+
+@919738406978, Couldn't see attendance status, shall I mark absent of everyone???
+28/08/24, 11:38 am - Paramesh Sir Mtech: Frm 21st Aug
+28/08/24, 11:39 am - Meghan Reva: AI attendance:
+28/08/2024
+
+Presentees -
+Meghan R Naik
+Monish Gowda M
+Rohith B
+Samarth Mandvekar
+Abhinav Anand
+Nayana R
+Afreen N
+Varshitha
+Sahana
+
+Absentees -
+Navya T C
+28/08/24, 11:39 am - +91 70224 75579: This message was deleted
+28/08/24, 11:42 am - +91 70224 75579: This message was deleted
+28/08/24, 11:43 am - Rahul Reva: Sorry sir, i forgot.
+28/08/24, 11:46 am - +91 70224 75579: Cybersecurity Attendance:
+28/08/2024
+
+Presentees:
+Siddesh Metri
+Saikiran Gongle 
+Shivprasad
+Sharanya H Sakri
+P Rahul
+B Rahul
+
+Absentees:
+Satyam Kumar Yadav
+Advika Shivanna
+28/08/24, 12:18 pm - +91 79758 35535: #include<stdio.h>
+
+void swap( int *a, int *b)
+{
+int temp = *a;
+*a = *b;
+*b = temp;
+}
+
+void wrong_swap( int a, int b)
+{
+int temp = a;
+a = b;
+b = temp;
+}
+
+
+int swap_and_max( int *a, int *b)
+{
+int temp = *a;
+*a = *b;
+*b = temp;
+
+if (*a > *b)
+return *a;
+else
+return *b;
+
+}
+
+
+int max (int a, int b)
+{
+if (a > b)
+return a;
+else
+return b;
+}
+
+
+void main()
+{
+int a = 10, b = 20, c, d;
+
+swap(&a,&b);
+printf("swap: a = %d, b = %d\n", a, b);
+
+wrong_swap(a,b);
+printf("wrong_swap: a = %d, b = %d\n", a, b);
+
+c = swap_and_max(&a,&b);
+printf("swap_and_max: a = %d, b = %d, max =%d \n", a, b,c);
+
+d = max(a,b);
+printf("max: a = %d, b = %d, max =%d \n", a, b,d);
+
+return;
+
+}
+29/08/24, 11:52 am - +91 70224 75579: Cybersecurity Attendance:
+29/08/2024
+
+Presentees:
+Siddesh Metri
+Shivprasad
+Sharanya H Sakri
+
+Absentees:
+Satyam Kumar Yadav
+Advika Shivanna
+P Rahul
+B Rahul
+Saikiran Gongle
+29/08/24, 11:53 am - +91 98866 25254: AI attendance:
+29/08/2024
+
+Presentees -
+Meghan R Naik
+Monish Gowda M
+Rohith B
+Samarth Mandvekar
+Abhinav Anand
+Nayana R
+Afreen N
+Varshitha
+Navya T C
+Sahana B M
+
+Absentees -
+0
+30/08/24, 10:59 am - +91 98866 25254: https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data
+02/09/24, 10:39 am - Navya Reva: <Media omitted>
+02/09/24, 10:52 am - +91 98866 25254: Metoo
+02/09/24, 10:53 am - +91 98866 25254: <Media omitted>
+02/09/24, 10:55 am - Kiran Sir Reva: Boys, where are you ?
+02/09/24, 10:55 am - Kiran Sir Reva: Please send a selfie
+02/09/24, 11:10 am - +91 98866 25254: <Media omitted>
+02/09/24, 11:12 am - Kiran Sir Reva: Group photo
+02/09/24, 11:13 am - +91 98866 25254: All at different places I think sir <This message was edited>
+03/09/24, 9:56 am - Paramesh Sir Mtech: Good morning all,
+
+All CS class is shifted to Deep AI lab.
+Kindly make a note.
+
+In Eliza, Pearson exams are going on.
+03/09/24, 2:28 pm - +91 98866 25254: <Media omitted>
+03/09/24, 2:35 pm - Rahul Reva: Cybersecurity Attendance:
+03/09/2024
+
+Presentees:
+Siddesh Metri
+Advika Shivanna
+B Rahul
+Saikiran Gongle
+Sharanya H Sakri
+
+Absentees:
+Shivprasad
+Satyam Kumar Yadav
+P Rahul
+03/09/24, 4:06 pm - +91 98866 25254: This message was deleted
+03/09/24, 4:23 pm - +91 98866 25254: AI attendance:
+03/09/2024
+
+Presentees -
+Meghan R Naik
+Monish Gowda M
+Rohith B 0.5
+Abhinav Anand
+Afreen N
+Varshitha
+Navya T C
+Sahana B M
+
+Absentees -
+Nayana R
+Samarth Mandvekar
+04/09/24, 9:54 am - Paramesh Sir Mtech: *Good morning all,*
+*How many are there in Kuvempu Auditorium for LTIMindtree preplacement talk?*
+04/09/24, 10:11 am - +91 98866 25254: 6
+04/09/24, 10:12 am - Paramesh Sir Mtech: Share the names here @919886625254
+04/09/24, 10:12 am - Navya Reva: <Media omitted>
+04/09/24, 10:16 am - Paramesh Sir Mtech: Good.
+We ll be there in 10mins.
+04/09/24, 10:17 am - Paramesh Sir Mtech: Wt abt @919353479298, @919902347666, @919113680394 ???
+04/09/24, 10:19 am - +91 98866 25254: AI attendance:
+04/09/2024
+
+Presentees -
+Meghan R Naik
+Monish Gowda M
+Rohith B
+Abhinav Anand
+Varshitha
+Navya T C
+
+Absentees -
+Afreen N
+Nayana R
+Samarth Mandvekar
+Sahana B M
+04/09/24, 10:45 am - Rahul Reva: Cybersecurity Attendance:
+04/09/2024
+
+Presentees:
+Siddesh Metri
+B Rahul
+Saikiran Gongle
+Advika Shivanna
+
+Absentees:
+Shivprasad
+Satyam Kumar Yadav
+P Rahul
+Sharanya H Sakri <This message was edited>
+04/09/24, 12:03 pm - Navya Reva: <Media omitted>
+04/09/24, 7:28 pm - Kiran Sir Reva: Why are you all not attending the capstone support program
+04/09/24, 7:29 pm - Kiran Sir Reva: Shinu mam has called in groups.
+04/09/24, 7:59 pm - +91 98866 25254: I attended sir.
+05/09/24, 6:22 pm - Meghan Reva: <Media omitted>
+05/09/24, 7:16 pm - Kiran Sir Reva: Dear AI Students, assignments have been assigned to individual teams. Colabrate with your teammates and try to finish the machine learning part of the assignment. If you complete PowerBI, you will be graded better.
+05/09/24, 7:17 pm - Kiran Sir Reva: Tuesday, you have to present to Dr.Shinu.
+05/09/24, 7:19 pm - Kiran Sir Reva: It was nice to watch the colorful campus today, especially RACE students. And krishna devru also gave Darshana.
+05/09/24, 7:35 pm - +91 79758 35535: This message was deleted
+05/09/24, 11:05 pm - Paramesh Sir Mtech: Dear All,
+Greetings of the day!
+We are pleased to inform you that the REVA University will observe a linking holiday on Friday, September 6th, and Saturday, September 7th, 2024, in celebration of Gowri-Ganesha Chaturthi. Please find attached circular towards the same.
+In line with our tradition, Lord Ganesha Idol will be installed on campus on Saturday, September 7th, 2024, at 10:30 A.M (Sougandika). We warmly invite everyone to join us for the Pooja and seek the blessings of Lord Ganesha.
+The immersion ceremony is scheduled for the same day at 5:30 P.M.
+The Management extends its best wishes to all for a joyous Gowri-Ganesha Festival.
+06/09/24, 10:58 am - Kiran Sir Reva: Dear Final year M.Tech/B.Tech students,
+
+we have a requirement for 2 interns fulfilling the following criteria.
+
+- Should be pursuing final sem B.Tech or final year M.Tech
+
+- Minimum of 6 months and max of 1 year internship allowed by university
+
+- Software engineering background
+
+- Application and development of software automation using AI/ML - Key requirement
+
+- Aggregate pass percentage of 75% (GPA 7.5) and above.
+
+There will be written test and interview for selection.
+
+Interested candidates can pl send your resumes to me
+
+Requirement is immediate. <This message was edited>
+06/09/24, 11:01 am - Kiran Sir Reva: This message was deleted
+06/09/24, 12:22 pm - Kiran Sir Reva: Please send your resume and total marks scored in your previous exams to me.
+06/09/24, 2:44 pm - Kiran Sir Reva: <Media omitted>
+06/09/24, 3:47 pm - Kiran Sir Reva: The above requirement is for NXP. The interview will be tuf to Crack. Get started with coding part w.r.t data analysis.
+06/09/24, 3:49 pm - +91 98866 25254: Okay sir.
+09/09/24, 8:39 am - Kiran Sir Reva: Dr. Shinu will be taking resume building tomorrow. Hope everyone will be in the class.
+09/09/24, 8:40 am - Kiran Sir Reva: Tasks for tomorrow
+ 1. Updated resumes with your marks should be sent. 
+2. Assignment on ML to be presented tomorrow.
+10/09/24, 10:22 am - Kiran Sir Reva: Dear all,
+Below are the details needed immediately *(For Placement Update)*:
+10th Mark - 
+12th Mark -
+UG CGPA -
+PG CGPA(Current sem) - 
+
+Thank you!
+10/09/24, 10:25 am - Meghan Reva: 10th Mark - 85%
+12th Mark -63%
+UG CGPA - 6.2
+PG CGPA(Current sem) - 73%
+10/09/24, 10:29 am - Navya Reva: This message was deleted
+10/09/24, 10:31 am - Navya Reva: Name - Navya T C 
+10th Mark - 9.4 CGPA
+12th Mark -82%
+UG CGPA -7.9 CGPA
+PG CGPA(Current sem) - 75.6%
+10/09/24, 10:36 am - +91 98866 25254: Name: Abhinav Anand
+10th Mark - 77%
+12th Mark -65%
+UG CGPA - 6.23
+PG CGPA(Current sem) - 77% <This message was edited>
+10/09/24, 10:38 am - Nayana Reva: Name - Nayana R
+10th Mark - 8.6 CGPA
+12th Mark -68%
+UG CGPA -6.9 CGPA
+PG CGPA(Current sem) -74.3%
+10/09/24, 10:45 am - Afreen Reva: Name - Afreen N 
+10th Mark - 85.45%
+12th Mark -60%
+UG CGPA -7.7 CGPA
+PG CGPA(Current sem) -73.3%
+10/09/24, 10:46 am - Varshita: Name - Varshita M.D
+1l0th Mark - 86%
+12th Mark -83%
+UG CGPA -7.39 CGPA
+PG CGPA(Current sem) - 75.33%
+10/09/24, 10:46 am - Monish Reva: Name - Monish Gowda M 
+10th Mark - 82.32%
+12th Mark -56.6%
+UG CGPA -7.1 CGPA
+PG CGPA(Current sem) -73%
+10/09/24, 10:48 am - Sahana @Reva: Name- Sahana B M
+10th Mark -87.36%
+12th Mark-66.16%
+UG CGPA-8.35
+PG (Current sem)-75%
+10/09/24, 10:56 am - +91 94810 90731: Name - Rohith B
+10th Mark - 82%
+12th Mark - 74%
+UG CGPA - 7 CGPA
+PG CGPA(Current sem) -72%
+10/09/24, 11:23 am - Paramesh Sir Mtech: @918431614113 and @917889585590,
+
+Kindly share the details of marks.
+10/09/24, 11:24 am - Monish Reva: I already shared sir
+10/09/24, 11:45 am - +91 78895 85590: Name: Syed Asrar Zahoor
+10th percentage: 73.2%
+12th percentage: 81.4%
+UG CGPA: 6.8
+PG Percentage(current):78%
+10/09/24, 12:06 pm - +91 98866 25254: All AI students share your resume to me before 12.25pm today. Only those will be sent for NXP internship interview. <This message was edited>
+10/09/24, 1:42 pm - Kiran Sir Reva: I have only Samarth resume.
+10/09/24, 1:42 pm - Kiran Sir Reva: Sending your old resumes in 2 mins
+10/09/24, 1:47 pm - Kiran Sir Reva: Send your resume seperately
+10/09/24, 1:47 pm - Kiran Sir Reva: Now
+10/09/24, 1:48 pm - +91 98866 25254: <Media omitted>
+11/09/24, 10:08 am - Navya Reva: Name:-Navya T C
+SRN:-R23MTA09
+11/09/24, 10:08 am - Sahana @Reva: Name-Sahana B M 
+SRN -  R23MTA15 <This message was edited>
+11/09/24, 10:09 am - Meghan Reva: Meghan R23MTA06
+11/09/24, 10:09 am - Monish Reva: Monish Gowda M 
+R23MTA07
+11/09/24, 10:09 am - Nayana Reva: Name :Nayana R
+SRN:R23MTA10
+11/09/24, 10:10 am - Afreen Reva: Name : Afreen N
+SRN: R23MTA02
+11/09/24, 10:12 am - Advika Reva: Advika Shivanna R23MTC01
+11/09/24, 10:12 am - +91 98866 25254: Name : Abhinav Anand
+SRN: R23MTA01
+11/09/24, 10:13 am - +91 70224 75579: Name: Siddesh Metri
+SRN: R23MTC18
+11/09/24, 10:14 am - Varshita: Name: Varshita M.D
+SRN : R23MTA17
+11/09/24, 10:16 am - Samarth Reva: Samarth
+R23MTA27
+11/09/24, 10:17 am - Sharanya Reva: Sharanya Sakri 
+R23MTC17.
+11/09/24, 10:21 am - +91 87928 25809: P RAHUL 
+R23MTC09
+11/09/24, 10:23 am - +91 94810 90731: Name : Rohith B
+SRN: R23MTA14
+11/09/24, 11:44 am - +91 79758 35535: Saikiran Gongle
+R23MTC13 <This message was edited>
+11/09/24, 12:13 pm - Paramesh Sir Mtech: Dear Students,
+
+We would like to inform you that the *IA1 examination for Module-4: Threat and Vulnerability Management (CEH)* is scheduled to take place on September 13th, 2024. Please find the attached examination timetable for your reference.
+
+Ensure you review the schedule carefully and prepare accordingly. Students currently engaged in internships are advised to inform their reporting managers, using this email as proof of the upcoming exam.
+11/09/24, 12:45 pm - Paramesh Sir Mtech: *Subject: IA1 Examination Guidelines - Closed Book Exam*
+
+Dear Students,
+
+*Please be informed that the upcoming IA1 examination will be a closed book exam. The exam will be conducted using the LMS Safe Browser on our Lab PCs.*
+
+Ensure that you are familiar with the system and adhere to the exam guidelines.
+12/09/24, 12:44 pm - Kiran Sir Reva: For afternoon, concentrate on data preparation and clustering
+13/09/24, 12:12 am - +91 98866 25254: https://home.mlops.community/events/dataengforai
+13/09/24, 12:47 pm - Kiran Sir Reva: https://www.kaggle.com/competitions/autismdiagnosis/discussion/319644 This was one of the competitions RACE hosted at Kaggle. Do register and participate.
+13/09/24, 10:43 pm - +91 98866 25254: https://www.youtube.com/live/oeXw4vmIbN8?si=bQCfx8MPDKc9UOFe
+18/09/24, 4:36 pm - Meghan Reva: AI students hafta complete all the 5 mini projects n present it tmro.
+Said by @919945747014 sir
+19/09/24, 10:37 am - Paramesh Sir Mtech: https://www.sisainfosec.com/
+19/09/24, 5:07 pm - Kiran Sir Reva: Data Visualization basic charts, box plot, scatter plots, when is it used? Features obtained from data. <This message was edited>
+19/09/24, 5:08 pm - Kiran Sir Reva: Individual projects allocated.
+19/09/24, 5:09 pm - Kiran Sir Reva: 3 projects w.r.t data. Table, image, and text
+19/09/24, 5:10 pm - Kiran Sir Reva: Retail online, value seg, customer seg, stock seg, stock predicting. Projects to be done without chatgpt.
+19/09/24, 5:13 pm - Kiran Sir Reva: Stephen fuse book on data Visualization, critisis with his views.
+19/09/24, 5:20 pm - Afreen Reva: INFORMATION DASHBOARD DESIGN -Stephen Few
+
+http://public.magendanz.com/Temp/Information%20Dashboard%20Design.pdf
+19/09/24, 5:24 pm - Afreen Reva: Blogs by Stephen Few
+(Learn the Principles)
+
+https://www.perceptualedge.com/
+19/09/24, 5:37 pm - Kiran Sir Reva: <Media omitted>
+19/09/24, 5:37 pm - Kiran Sir Reva: <Media omitted>
+19/09/24, 5:40 pm - Kiran Sir Reva: <Media omitted>
+20/09/24, 9:07 am - Kiran Sir Reva: Everyone should be in Chankya by 9.30 am
+20/09/24, 9:54 am - Kiran Sir Reva: Both AI and CS students should come to Chankya.
+20/09/24, 9:55 am - Kiran Sir Reva: Attendance will be taken here.
+20/09/24, 10:13 am - Paramesh Sir Mtech: Why I couldn't see any AI students??? 😡😡
+20/09/24, 10:15 am - Kiran Sir Reva: <Media omitted>
+20/09/24, 10:39 am - Kiran Sir Reva: <Media omitted>
+20/09/24, 11:31 am - Monish Reva: <Media omitted>
+20/09/24, 11:38 am - +91 94810 90731: <Media omitted>
+20/09/24, 1:27 pm - +91 98866 25254: <Media omitted>
+21/09/24, 9:57 am - Kiran Sir Reva: Why are you all late to the class? Pradeepta is waiting
+21/09/24, 9:57 am - Kiran Sir Reva: I will have to report all AI students to shinu Madam.
+21/09/24, 9:58 am - Kiran Sir Reva: This is height of disobedience.
+21/09/24, 9:59 am - +91 98866 25254: Sir im at reva gate.
+21/09/24, 10:00 am - Sahana @Reva: I’m also sir 🙋🏻‍♀️
+25/09/24, 9:07 am - Paramesh Sir Mtech: Good morning all,
+@919738406978,
+@919740668440 
+
+Meet me around 10
+25/09/24, 9:36 am - Rahul Reva: Okay sir
+25/09/24, 3:27 pm - +91 94810 90731: This message was deleted
+25/09/24, 3:27 pm - +91 94810 90731: This message was deleted
+25/09/24, 3:31 pm - Sahana @Reva: <Media omitted>
+25/09/24, 4:03 pm - Navya Reva: <Media omitted>
+26/09/24, 7:13 am - Kiran Sir Reva: Wikipedia, containing both Wikipedia profiles and view count information, and then compare the popularity of different sports as well as top athletes. AI students working on cricket and chess can gather information by writing a Python script to extract information and create a database.
+26/09/24, 4:18 pm - +91 98866 25254: https://bit.ly/3XGTtgx
+27/09/24, 10:13 am - Kiran Sir Reva: Everyone please help yourself for free breakfast in pitstop.
+27/09/24, 10:20 am - Kiran Sir Reva: AI students please form a group and participate in the Kaggle competition https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use?utm_medium=email&utm_source=gamma&utm_campaign=comp-child-mind-institute
+28/09/24, 8:16 am - Kiran Sir Reva: Dear Students, Please be  before 9.45 am today.
+30/09/24, 8:53 am - Kiran Sir Reva: Hope all the students' assignments are in the completion stage.
+30/09/24, 5:04 pm - Rahul Reva: Good evening, everyone.
+
+As previously mentioned, the CS students will have their internals as scheduled. Please ensure you arrive in class by 9:45 AM. The duration of the internals will be from 10:00 AM to 4:30 PM, including breaks. 
+
+Don’t forget to bring your own laptop. Velu Sir will also be in college tomorrow. 
+
+Thank you!
+01/10/24, 11:08 pm - +91 98866 25254: 1 x Ticket
+Order total: Free
+ 
+	
+Saturday, November 16, 2024 from 8:15 AM to 12:30 PM (India Time)
+Add to Google · Outlook · iCal · Yahoo
+ 
+	
+Rakuten India Enterprise Private Limited
+Raja Ram Mohan Roy Road
+Bengaluru 560027
+India
+View on map
+
+https://www.google.com/url?q=https://www.eventbrite.com/e/rakuten-technology-conference-2024-tickets-1013352483557?aff%3Doddtdtcreator&source=gmail&ust=1727875372311000&usg=AOvVaw0pQArMGy8lYP_C7BD-35tW
+03/10/24, 5:42 pm - Kiran Sir Reva: Dear AI students,  tomorrow all your assignments be evaluated based on   
+Data Collection (15)					
+Model Selection and Training (10)					
+Model Evaluation and Metrics (10)					
+Code Implementation & Functionality (15)					
+Optimization and Regularization (5)					
+EDA  (5)					
+Presentation (15)					
+Originality and Creativity (10)					
+Attendance and Participation (15)		
+be prepared for the presentation.
+03/10/24, 5:43 pm - Meghan Reva: All the 5 Projects sir????
+03/10/24, 6:12 pm - Paramesh Sir Mtech: <Media omitted>
+03/10/24, 6:13 pm - Paramesh Sir Mtech: Dear AI Students,
+*Capgemini is hiring for the 2025 batch!* 
+All eligible candidates (BE/BTECH/ME/MTECH - All branches, MCA & MSc CS/IT) must register on the Superset portal before the deadline: 
+*6th October 2024, 11:59 PM.*
+
+*CTC details:*
+
+Analyst: 4.25 LPA (4 LPA + 25K bonus)
+Analyst: 5.75 LPA (5.5 LPA + 25K bonus)
+Senior Analyst: 7.5 LPA
+
+Please ensure there are no active backlogs. Best of luck!
+
+*Check the mail for more details!!!*
+03/10/24, 6:14 pm - Paramesh Sir Mtech: Dear All AI Students,
+Must apply immediately.
+03/10/24, 6:25 pm - +91 98866 25254: Application stuck at adhaar verification step. Tried several times. Not proceeding.
+03/10/24, 7:04 pm - Meghan Reva: Perhaps Fake Aadhar
+03/10/24, 7:04 pm - Meghan Reva: It needs an update <This message was edited>
+03/10/24, 9:38 pm - Kiran Sir Reva: All AI students, please send your individual project titles allocated by  Simha Sir.
+03/10/24, 9:45 pm - +91 98866 25254: Revenue Distribution of Sailing Clubs in India
+03/10/24, 10:08 pm - Meghan Reva: Customer Churn and Retention Analysis on E Commerce
+04/10/24, 10:20 am - Paramesh Sir Mtech: Greetings of the day!!
+Accenture is hiring *MTech students from the 2025* graduating batch. We require a few details from the students, so kindly inform them to fill out the form by *11:00 AM, 4th Oct 2024 (today).*
+
+Registration Link: https://forms.office.com/r/7sCC0XK1hz
+
+Thank you!
+04/10/24, 10:22 am - Kiran Sir Reva: AI Students who are not coming today to class,  will be allocated zero marks in Deep learning IA. <This message was edited>
+04/10/24, 10:24 am - Meghan Reva: On our way sir
+04/10/24, 10:40 am - Kiran Sir Reva: Individual Assignment titles are yet to be received
+04/10/24, 10:40 am - Sahana @Reva: Apple product price list 2022 in 26 countries
+04/10/24, 2:57 pm - Kiran Sir Reva: Carry on with your assignments. Will take the class around 3.30 PM
+05/10/24, 2:16 pm - Paramesh Sir Mtech: Dear student's,
+
+Who applied for Capgemini,
+drop your *Full Name, SRN and registered mail ID.*
+
+Thank you! <This message was edited>
+05/10/24, 2:17 pm - Meghan Reva: Meghan 
+R23MTA06
+meghan111117@gmail.com
+05/10/24, 2:17 pm - Monish Reva: Monish Gowda M
+R23MTA07 
+monishgowdama@gmail.com
+05/10/24, 2:18 pm - Varshita: Varshita M.D
+R23MTA17 
+varshita834@gmail.com
+05/10/24, 2:18 pm - +91 94810 90731: Rohith B
+R23MTA14
+rohitbrp01@gmail.com
+05/10/24, 2:18 pm - Navya Reva: Navya T C
+R23MTA09
+thatheranavya@gmail.com
+05/10/24, 2:18 pm - Nayana Reva: This message was deleted
+05/10/24, 2:20 pm - Nayana Reva: Nayana R
+R23MTA10
+nr0136867@gmail.com
+05/10/24, 2:27 pm - Afreen Reva: Afreen N 
+R23MTA02
+afreeeen16@gmail.com
+05/10/24, 2:37 pm - Sahana @Reva: Sahana B M
+R23MTA15
+sahanabm16@gmail.com
+05/10/24, 2:51 pm - Navya Reva: This message was deleted
+05/10/24, 2:51 pm - Meghan Reva: ?
+05/10/24, 6:25 pm - +91 98866 25254: Abhinav Anand
+R23MTA01
+abhinavanand4026@gmail com
+09/10/24, 7:14 am - Paramesh Sir Mtech: @919164499131 @917204828156 @918970798921 @919738827023 @919972254146 @919655628661 
+
+*IBM Consulting - CIC Hiring: Batch 2025 - Registration Process*
+
+Dear Sirs, IBM registration link has been shared with eligible students, ensure all eligible students are getting registered for the hiring process. The registration involves 3 steps, and every student must complete all 3 steps to submit their application.
+
+Registration Process:
+Step 1. Apply to the job opening below on IBM career portal.
+Link -  https://ibm.biz/BdaYfk
+Step 2. Note the candidate reference number which will be shared in an email from IBMRecruitment_noreply <Enterprise@trm.brassring.com>
+Step 3. Fill the college registration form
+Link - https://forms.office.com/r/ptWNNsJzai
+09/10/24, 7:14 am - Paramesh Sir Mtech: *Check the mail for IBM registration*
+09/10/24, 11:32 am - Paramesh Sir Mtech: Once done, 
+
+Drop ur name nd SRN
+09/10/24, 11:39 am - +91 98866 25254: ABHINAV ANAND
+R23MTA01
+09/10/24, 11:39 am - Monish Reva: Monish Gowda M 
+R23MTA07
+09/10/24, 11:56 am - +91 70224 75579: Siddesh Metri
+R23MTC18
+09/10/24, 11:59 am - Nayana Reva: Nayana R
+R23MTA10
+09/10/24, 12:09 pm - Sahana @Reva: Sahana B M
+R23MTA15
+09/10/24, 2:18 pm - Sharanya Reva: Sharanya H Sakri 
+R23MTC17
+09/10/24, 2:25 pm - Advika Reva: Advika Shivanna R23MTC01
+09/10/24, 2:32 pm - Paramesh Sir Mtech: What about other's ??
+09/10/24, 2:36 pm - +91 87928 25809: P RAHUL
+R23MTC09
+09/10/24, 4:13 pm - Afreen Reva: AFREEN N 
+R23MTA02
+09/10/24, 4:19 pm - Paramesh Sir Mtech: <Media omitted>
+09/10/24, 4:20 pm - Paramesh Sir Mtech: Afreen  N 	IBM - October 2024
+Likilbabu  S	IBM - October 2024
+
+
+Both not applied for IBM???
+09/10/24, 4:20 pm - Paramesh Sir Mtech: <Media omitted>
+09/10/24, 4:21 pm - Paramesh Sir Mtech: Dear all, 
+Who applied for IBM,
+Check ur names are here.
+09/10/24, 4:21 pm - Afreen Reva: Applied sir!
+09/10/24, 4:30 pm - +91 98866 25254: Applied.
+Name found and present. <This message was edited>
+09/10/24, 4:33 pm - Nayana Reva: Sir I have applied but 
+my name is not in list
+09/10/24, 4:51 pm - Paramesh Sir Mtech: Noted,
+Passed the inform to CDC Placement team.
+09/10/24, 7:59 pm - Varshita: VARSHITA M.D
+R23MTA17
+09/10/24, 10:29 pm - Sahana @Reva: Sir I have applied but 
+my name is not in list
+10/10/24, 9:47 am - Paramesh Sir Mtech: <Media omitted>
+10/10/24, 9:47 am - Paramesh Sir Mtech: <Media omitted>
+10/10/24, 9:47 am - Paramesh Sir Mtech: Dear all,
+Check whether your name are listed here, if not let me know.
+10/10/24, 9:50 am - +91 98866 25254: My name is listed
+~Abhinav Anand
+10/10/24, 9:53 am - Sahana @Reva: My name is not mentioned in applied and not applied list
+10/10/24, 9:54 am - Monish Reva: My  name is not mentioned in the applied and not applied list...
+10/10/24, 9:56 am - Nayana Reva: My name is not mentioned in applied and not applied list
+10/10/24, 10:02 am - Sharanya Reva: My name is listed.
+10/10/24, 10:05 am - Navya Reva: Same here sir!!!
+10/10/24, 10:07 am - Paramesh Sir Mtech: Okay, 
+
+@917022475579 collect all non listed students name with SRN and post here.
+
+Will share the name list to CDC team.
+10/10/24, 10:56 pm - Paramesh Sir Mtech: @919164499131 @917204828156 @918970798921 @919738827023 @919655628661 
+
+*Cognizant GenC | In-person technical interview on 14th October 2024 @ REVA Campus*
+
+Cognizant  in-person technical interview is scheduled as follows:
+
+*Interview Details:*
+Date: 14th October 2024
+Time: 8:00 AM (Reporting time)
+Venue: CDC Department, Swami Vivekananda Block, REVA Campus
+
+It is mandatory for all shortlisted candidates to attend. Please join the WhatsApp group, link shared in mail.
+
+
+*Important Instructions:*
+1)Bring your own laptop with a working camera and microphone.
+2)Ensure your laptop has LAN connectivity. If your laptop lacks a LAN port, bring a LAN adapter.
+Carry the following:
+>An updated hard copy of your resume.
+>Government ID proof (Aadhar card/PAN card with a clear photo).
+3) Dress in business formals.
+
+*The list of eligible students is attached for your reference.*
+10/10/24, 10:56 pm - Paramesh Sir Mtech: <Media omitted>
+14/10/24, 10:12 am - Paramesh Sir Mtech: *Cognizant GenC | In-person technical interview on 14th October 2024 @ REVA Campus*
+
+@919740668440, All the very best!
+Once interview over, meet me in the Program office.
+14/10/24, 10:15 am - Meghan Reva: Sure sir 
+And thank u
+14/10/24, 12:30 pm - Paramesh Sir Mtech: Dear AI students,
+Deep Learning for AI module - Internal Assessment exam will be conducted on 16 Oct 2024 (Wednesday).
+15/10/24, 7:50 am - Paramesh Sir Mtech: <Media omitted>
+15/10/24, 7:50 am - Paramesh Sir Mtech: <Media omitted>
+15/10/24, 7:51 am - Paramesh Sir Mtech: Good morning all,
+Above mentioned students have IBM Consulting - CIC Hiring: Batch 2025 || Scheduled at 2:30 PM, Today (15-Oct-24) - *Pre Placement talk.*
+15/10/24, 7:52 am - Paramesh Sir Mtech: Be available at campus to attend the meeting.
+15/10/24, 9:52 am - Rahul Reva: Today Balaji sir will be taking class on cloud computing for Cybersecurity students.
+Kindly be in class on or before 10:00 am.
+15/10/24, 2:01 pm - +91 98866 25254: Can we get the link to attend this recorded session?
+15/10/24, 2:42 pm - Paramesh Sir Mtech: @919886625254,
+@918660813388,
+@919113680394,
+@918660334945,
+@918792825809,
+@919731284236 
+
+
+Have you people joined IBM, pre talk ??
+
+I couldn't see your name in meeting.
+15/10/24, 2:43 pm - Sharanya Reva: Joined sir.
+15/10/24, 2:43 pm - Paramesh Sir Mtech: If you're not in meeting, will inform placement team to remove you name from IBM recruitment.
+15/10/24, 2:44 pm - +91 98866 25254: Attending sir
+15/10/24, 2:46 pm - Sahana @Reva: Attending sir
+15/10/24, 2:53 pm - +91 87928 25809: I am in the meeting sir
+15/10/24, 2:55 pm - Afreen Reva: In the meeting sir
+15/10/24, 3:03 pm - Meghan Reva: <Media omitted>
+15/10/24, 3:06 pm - +91 98866 25254: <Media omitted>
+15/10/24, 7:29 pm - +91 98866 25254: Bengaluru rains: DC announces holiday for schools, colleges tomorrow
+http://dhunt.in/X4AFE
+
+By Asianet Newsable via Dailyhunt
+16/10/24, 9:45 am - Kiran Sir Reva: Deep learning IA for AI students will start at 11AM.
+16/10/24, 9:45 am - Samarth Reva: Perfect
+16/10/24, 4:25 pm - Paramesh Sir Mtech: @919164499131 @917204828156 @918970798921 @919738827023 @919972254146 @919655628661 
+
+Dear Sirs,
+
+The IBM Online test has been scheduled *Today, (16th Oct 2024) at 6:00 PM.* The students has to log into the test would only be of 10 minutes (6:00PM- 6:10PM). Please instruct all the eligible students to attend the test without fail.
+17/10/24, 8:09 am - Paramesh Sir Mtech: Greetings of the day!!!
+This is to inform you that REVA University has declared a holiday on Thursday, October 17, 2024, in observance of Maharshi Valmiki Jayanti.
+
+*Note: Tomorrow and Saturday will we working day*
+22/10/24, 1:58 pm - Meghan Reva: <Media omitted>
+22/10/24, 1:58 pm - Meghan Reva: <Media omitted>
+22/10/24, 1:58 pm - Meghan Reva: <Media omitted>
+22/10/24, 1:59 pm - Meghan Reva: In the question option is not there. #GraceMarks
+23/10/24, 2:30 pm - Kiran Sir Reva: Dear Students, can you all make a document of what you did today and post it.
+23/10/24, 2:31 pm - +91 98866 25254: Okay.
+24/10/24, 10:33 pm - Meghan Reva: Ok sir 👍🏻
+24/10/24, 10:33 pm - Meghan Reva: Deal 🤝
+24/10/24, 10:34 pm - Paramesh Sir Mtech: Hy u take interview Meghan, clear Accenture. If not don't come to class 🤣🤣
+24/10/24, 10:34 pm - Meghan Reva: 🤣😂🤣😂
+24/10/24, 10:35 pm - Satyam: Yes sir
+24/10/24, 10:35 pm - Meghan Reva: Ok ok ok
+25/10/24, 9:38 am - Paramesh Sir Mtech: Dear all, 
+Please be seated in 4th floor, Navigator room.
+25/10/24, 9:38 am - Paramesh Sir Mtech: Both AI nd CS
+25/10/24, 10:11 am - Paramesh Sir Mtech: <Media omitted>
+25/10/24, 10:11 am - Paramesh Sir Mtech: <Media omitted>
+25/10/24, 10:11 am - Paramesh Sir Mtech: *Project title, ll be presented by Kyndryl Team*
+25/10/24, 11:10 am - Kiran Sir Reva: Rohith, where are you?
+25/10/24, 4:13 pm - Meghan Reva: This message was deleted
+25/10/24, 4:21 pm - Paramesh Sir Mtech: @919740668440,
+@918431614113 
+
+What about interview status??
+25/10/24, 4:22 pm - Meghan Reva: First cleared
+25/10/24, 4:22 pm - Meghan Reva: Second round gone sir 🥺
+25/10/24, 5:33 pm - Paramesh Sir Mtech: 🙆‍♂️🙆‍♂️🙆‍♂️
+28/10/24, 1:58 pm - Paramesh Sir Mtech: Dear CyberSec students,
+*DTICI Campus Hiring 2024-25 | Reva University*
+Great opportunity for M.Tech Cybersecurity/ Information Security (2025 batch) students!
+
+*Company:* DTICI (Daimler Truck Innovation Center India)
+*Role:* Internship
+*Eligibility:* Minimum 65% academic record, no backlogs as of Oct 2024
+*Focus:* Software capabilities, cybersecurity, information security
+Interested students, please send your updated resume and other details to me.
+
+*Note: Check your mail for further details!*
+
+Thank you,
+Prof. Paramesh G,
+Placement Vertical Head,
+RACE, REVA University.
+28/10/24, 7:59 pm - Paramesh Sir Mtech: Dear all,
+Those who haven't secured internship, all must be at campus tomorrow without any reasons, Dr. Shinu will be addressing the meeting. 
+
+Thank you!
+29/10/24, 8:40 am - Paramesh Sir Mtech: Good morning all,
+Gentle reminder to be before 9.45 in class room. <This message was edited>
+29/10/24, 10:05 am - Meghan Reva: This message was deleted
+29/10/24, 10:05 am - Meghan Reva: This message was deleted
+29/10/24, 11:23 am - +91 98866 25254: <Media omitted>
+29/10/24, 12:12 pm - Kiran Sir Reva: Are you sharing this with your friends
+29/10/24, 12:15 pm - +91 98866 25254: This is AI all students placement activity created for sharing purpose by paramesh sir and students by mail.
+Individual placement status will be created by referring to this.
+29/10/24, 1:59 pm - Kiran Sir Reva: Use class link to join the meeting
+29/10/24, 3:52 pm - Advika Reva: This message was deleted
+29/10/24, 4:17 pm - Advika Reva: https://forms.gle/4HSJyRppQBp76iav5
+
+Cybersecurity
+29/10/24, 4:17 pm - Afreen Reva: AI
+
+https://forms.gle/zm4GvHrA7SWjkRjo8
+29/10/24, 4:52 pm - Advika Reva: https://docs.google.com/spreadsheets/d/1v9caA8u4FuCjUmlw5PblUuNRIV5UYnj1plDWN7rCFMI/edit?usp=sharing
+
+Cybersecurity response
+29/10/24, 5:37 pm - Kiran Sir Reva: This is just a form,  Afreen. Send complete report.
+29/10/24, 5:37 pm - Afreen Reva: Few are yet to send <This message was edited>
+29/10/24, 5:38 pm - Afreen Reva: Check main group sir
+29/10/24, 5:40 pm - Kiran Sir Reva: This the main group
+29/10/24, 7:38 pm - Advika Reva: @919731284236 @918497870542 @919738406978 
+
+please fill this by tonight
+30/10/24, 7:58 am - Kiran Sir Reva: We will be celebrating Deepavali today in RACE today. Everyone can come in ethnic wear. We will be having games in the evening.
+30/10/24, 6:44 pm - Satyam: questions
+1.apptitude tough one
+2.networking
+3.iot
+4.c programming 
+5.cybersecurity intermediate level 
+6.1 hr 40 questions
+31/10/24, 9:55 am - +91 63662 45793: <Media omitted>
+31/10/24, 10:47 am - Rahul Reva: Happy Deepawali! 🏮🧨
+04/11/24, 9:23 am - Kiran Sir Reva: Dear Students, With respect to placements plan, both CS and AI Students will be presenting their allocated projects tomorrow. Each and every student who is not yet placed has to present the recent alloted project or any completed  project. <This message was edited>
+05/11/24, 11:38 am - Paramesh Sir Mtech: Dear all,
+Please fill the details for SLCM (Students Portal), before 2 PM. 
+Once done acknowledge, here with Full name and SRN.
+*AY23-25 | Students Details | RACE*
+https://forms.gle/oaoDZ3f7gk9EudTw7
+
+*Note: For Placement also!*
+05/11/24, 4:57 pm - Advika Reva: excel sheet name it as <name> || CSFT 24
+06/11/24, 7:56 pm - +91 98866 25254: Dear Candidate,
+
+Greetings from Accenture!
+
+Basis your earlier participation in the recruitment process with Accenture, we are happy to provide you another opportunity to re-apply and go through our recruitment process subject to your eligibility for the role.
+
+
+Hence, if you are interested and looking for another chance to join us at Accenture, we urge you to re-register using the below link and enroll into our hiring program for the role of Packaged App Development Associate. The detailed job description will be available on the registration page.
+
+Link: https://indiacampus.accenture.com/myzone/accenture/1/jobs/25377/job-details
+
+If you are facing any technical issues during assessments or the interview rounds, please call us on - +91 6366937447 or use the Chat box given on the Help Page 
+
+Wishing you the best and looking forward to your participation.
+
+Regards,
+Recruitment Team
+Accenture in India
+07/11/24, 9:12 am - Satyam: <Media omitted>
+07/11/24, 9:12 am - Satyam: Is race participating any sports for inter department?
+07/11/24, 9:52 am - Meghan Reva: Yes
+07/11/24, 9:52 am - +91 94810 90731: yes
+07/11/24, 10:13 am - Advika Reva: <Media omitted>
+07/11/24, 11:44 am - Afreen Reva: https://docs.google.com/spreadsheets/d/1VQit4xxUhIIFbldDtj3EYRVrqFx1ytqKlOEHQxOHgPo/edit?usp=sharing
+07/11/24, 8:28 pm - +91 98866 25254: https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/128191?ref=azharkhan
+08/11/24, 12:09 pm - Paramesh Sir Mtech: @919886625254,
+@919740668440,
+@918431614113,
+@919481090731 
+Please, post your today's task assigned and going to work in teams class grp.
+09/11/24, 1:07 am - +91 98866 25254: Dear Student, City Union Bank Limited Hiring Process has been scheduled for 2025 graduating batch. Please register yourself if, interested. Last date to register is 2024-11-11 before 8:0 AM. Check email for more information. REVA UNIVERSITY
+09/11/24, 11:08 am - Rahul Reva: FT-Cybersecurity Students are supposed to find a problem statement related to your intrested CS domain before tuesday, for personal project. Make sure to refer research papers.
+we will have a call with Rahul sir on Tuesday.
+11/11/24, 9:52 am - Paramesh Sir Mtech: @919740668440,
+Please create a separate group in teams called MERCK placement drive
+add our applied students. Will share a few impt. questions there.
+11/11/24, 9:53 am - Meghan Reva: deal sir 100%
+11/11/24, 11:27 am - Paramesh Sir Mtech: *Subject: Reminder: Feedback for Prof. Balaji on LMS*
+
+Dear Students,
+
+Kindly login to the LMS and provide your feedback to the professor. Please navigate to:
+
+*LMS → Survey → FT | Session Feedback | Programming with C | Prof. Balaji*
+
+Your valuable input is essential for continuous improvement.
+
+*Deadline: Please complete this by today before 5 PM.*
+11/11/24, 1:16 pm - Kiran Sir Reva: These have not created links for individual projects documents 
+AI
+Monish Gowda M 
+Navya
+Nayana
+Sahana
+Samarth
+CS
+Rahul P
+Rahul B
+Satyam
+
+It should be completed by end of the day. Or else you need to explain it to Dr.Shinu.
+12/11/24, 11:09 am - Paramesh Sir Mtech: Gentle reminder!
+12/11/24, 11:09 am - Paramesh Sir Mtech: Only few hv filled!
+12/11/24, 12:22 pm - +91 87928 25809: https://www.linkedin.com/jobs/view/4067301007
+12/11/24, 4:58 pm - Kiran Sir Reva: Dear Students,
+
+Time is running out! Registrations for Tata Elxsi TELIPORT Season 2 are open and will close on 14th November, 11:59 PM. 
+
+
+
+Don’t miss this unique chance to showcase your skills, win cash prizes, and secure Pre-Placement Offers (PPOs) or Pre-Placement Interviews (PPIs) with Tata Elxsi. Tata Elxsi is one of the world’s leading providers of design and technology services across industries, including Automotive, Broadcast, Communications, and Healthcare.
+
+
+
+The Round 1 case submission deadline is 16th November, 11:59 PM. Register now to dive into real-world challenges and gain invaluable experience. Please refer to https://gradpartners.in/e/Tata-Elxsi-TELIPORT-Season-2-156 for registration and further details.
+
+
+
+Eligibility: Pre-Final and Final Year Students pursuing B.E, B.Tech, M.Tech, and Integrated Dual Degree courses
+
+
+What's at stake?
+
+PPO/PPIs for Full time roles across 100+ positions
+Chance to win huge cash rewards from prize pool of INR 5 lac
+Submission Guidelines for Round 1:
+
+Each team is required to submit a 1-slide PPT showcasing your core idea and initial approach to the challenge.
+Any supporting documents, like Excel sheets or additional details, should be attached in the annexures.
+Submissions are accepted in .ppt/.pptx/.pdf formats only, with a maximum file size of 5 MB.
+Only the Team Leader can upload and update submissions. Use this naming convention: Leader's First Name_Team Name_Institute Name.
+The Team Leader can modify their submission by selecting Submission and then Change Submission until the deadline.
+We strongly recommend submitting ahead of time to avoid last-minute issues.
+Wishing you all the best in this thrilling challenge!
+
+
+Warm Regards,
+
+ 
+
+Prof. Paramesh G  
+
+Assistant Professor | Placement Vertical Head (VH)
+REVA Academy for Corporate Excellence (RACE)
+Mobile: +91 9655628661
+
+
+REVA UNIVERSITY | Rukmini Knowledge Park | Kattigenahalli | Yelahanka | Bengaluru | Karnataka 560 064
+
+https://www.reva.edu.in/
+13/11/24, 11:37 am - Paramesh Sir Mtech: https://youtu.be/xW79tgYSgRE
+
+@919353479298, @919353795528 check this for LTI Mindtree HR round.
+13/11/24, 11:38 am - Nayana Reva: Okay sir
+13/11/24, 11:40 am - Paramesh Sir Mtech: *Common HR interview questions for LTI (Mindtree) include:*
+1. Introduce yourself. (1 - 2 mins)
+2. Where do you live and what is your closest city where there is an LTI office?
+3. Will you relocate?
+4. What are your hobbies?
+5. Explain your final year project.
+6. What is the difference between a smart and a hard worker?
+7. Name some competitors of L&T.
+8. How much salary do you expect?
+9. What are your major strengths and weaknesses?
+*10. Why should I hire you?*
+13/11/24, 11:44 am - Paramesh Sir Mtech: https://prepinsta.com/lti/hr-interview-questions/
+13/11/24, 11:45 am - Paramesh Sir Mtech: @919353795528, @919353479298,
+We will have a mock interview around 12.15, get ready.
+13/11/24, 11:48 am - Navya Reva: Ok sir
+13/11/24, 11:48 am - Nayana Reva: Okay Sir
+13/11/24, 12:46 pm - Meghan Reva: @919731284236 You have received a mail, need to fill the form before 1:30
+13/11/24, 12:46 pm - Sharanya Reva: Submitted <This message was edited>
+13/11/24, 4:34 pm - Advika Reva: This message was deleted
+14/11/24, 12:00 pm - Advika Reva: <Media omitted>
+14/11/24, 12:00 pm - Advika Reva: <Media omitted>
+14/11/24, 12:00 pm - Advika Reva: <Media omitted>
+14/11/24, 12:00 pm - Advika Reva: <Media omitted>
+14/11/24, 12:03 pm - Advika Reva: Projects are to be with respect to the following
+1. Drone jamming
+2. Forward Collision Warning Development using GenAI
+3. Rail Domain
+14/11/24, 2:13 pm - Kiran Sir Reva: Students are absent in the class.
+14/11/24, 2:14 pm - Nayana Reva: Sir we are near food court 
+It’s raining sir
+14/11/24, 2:14 pm - Nayana Reva: Will be there sir
+14/11/24, 2:15 pm - Kiran Sir Reva: You should have been here by 1.45 PM.
+14/11/24, 2:18 pm - Navya Reva: <Media omitted>
+14/11/24, 2:38 pm - Afreen Reva: This message was deleted
+14/11/24, 2:38 pm - Meghan Reva: Wow moment
+15/11/24, 11:23 am - Paramesh Sir Mtech: https://cycatz.com also wants interns in VAPT. Please prepare all Cybersec students. Navaneethan, one of the senior CISO will be coming to the campus now to discuss. https://www.linkedin.com/in/navaneethan-m-2346052/
+15/11/24, 9:47 pm - +91 98866 25254: https://www.instagram.com/stories/pgcet_karnataka_updates/3501743901063688057?utm_source=ig_story_item_share&igsh=MW83emhiZDY5azM3Nw==
+18/11/24, 2:14 pm - Paramesh Sir Mtech: Dear sir,
+
+@919164499131 @919655628661 
+
+ The Ecolabs online test has been rescheduled to Wednesday, 2nd half. I will send a detailed email. Kindly inform the students from your end as well.
+
+Thank you!
+18/11/24, 2:14 pm - Paramesh Sir Mtech: *Ecolabs online test*
+19/11/24, 2:59 pm - Sahana @Reva: <Media omitted>
+20/11/24, 9:49 am - Kiran Sir Reva: Where are you taking the interview girls?
+20/11/24, 9:50 am - Sahana @Reva: <Media omitted>
+20/11/24, 9:52 am - Paramesh Sir Mtech: <Media omitted>
+20/11/24, 9:52 am - Paramesh Sir Mtech: 👆Dear CSE, CIT, ECE, EEE & MCA VHs, 
+
+Accolite Online Test is scheduled today (20/11/2024) @ 9.30AM.
+
+Reporting Time: 9.30AM (Test will start exactly at 10AM. So, they need to login and setup before the scheduled time)
+Reporting Venue: REVA Rangasthala, Swami Vivekananda Block
+
+Students need to carry their laptop along with the laptop connector for the internet.
+
+Kindly remind the students.
+20/11/24, 9:52 am - Paramesh Sir Mtech: Lab Venue for Accolite
+B.Tech - CSE, CIT, CSE, AIML, AIDS, ISE - 2nd Floor Lab
+
+B.Tech - ECE, ECM, EEE, EEC, R&A and M.Tech - CSE, ECE, AIML - 1st Floor Lab
+
+MCA - Basement Language Lab
+
+Kindly inform the students to accommodate as per the allotted Lab.
+20/11/24, 2:39 pm - +91 98866 25254: R23MTA01JUST COMPLETED
+ 
+Assessment
+On-Campus Hiring 2024 || Aptitude & Coding Assessment
+ 
+Time Taken
+29 minutes 56 seconds
+ 
+Submitted On
+20 Nov, 2024 02:37 PM
+ 
+Candidate ID
+45056289
+20/11/24, 2:40 pm - Kiran Sir Reva: What about the results?
+20/11/24, 3:30 pm - +91 98866 25254: Not shown.
+20/11/24, 7:05 pm - Nayana Reva: <Media omitted>
+20/11/24, 7:18 pm - Meghan Reva: proud moment
+21/11/24, 10:09 am - Paramesh Sir Mtech: Hello All,
+
+Qualcomm is hiring for for an Engineer position.  Mentioned below are the details of the job, interested folks may share their resumes at mary.banerjee@reva.edu.in and programoffice@reva.edu.in .
+
+*Company- Qualcomm https://www.qualcomm.com/*
+*Experience- 0-3 years Experience*
+*Must have- C/C++,Python,TensorFlow (TF),PyTorch,ONNX (Open Neural Network Exchange),ONNXRuntime,TFLite (TensorFlow Lite),Embedded Linux,Windows, GPU/NPU Acceleration Tools*
+
+Job Overview:
+• Bachelor's degree in Electronics/Communication Engineering, Information Systems, Computer Science, or related field.
+• 0-4 years’ development experience with C/C++ Embedded Linux/Windows software and good programming skills.
+• Good understanding of AI/ML concepts.
+• Responsible for seamless enablement of Windows AI/ML platform on Qualcomm Snapdragon through Neural Processing Engine/AI software stack. This includes AI model optimization using model conversion, optimization, online/offline graph creation, and backend processing for best performance on CPU/GPU/NPU using Qualcomm Neural Network.
+• Explore and iterate on finding optimal tiling and data movement strategies for the latest AI models, including generative AI and new models. 
+• Good hands-on experience with troubleshooting software and system issues.
+• Strong aptitude, quick learner, self-motivated, willing to explore and work across breadth of various technology areas.
+ 
+Preferred Qualifications
+• In-depth knowledge of AI/ML concepts and techniques
+• Familiarity with implementation of key ML operations like CONV, EINSUM and non-linear operators with focus on power, performance and memory optimization,  enablement of generative AI and new models on NPU backend
+• Good understanding of AI frameworks ONNX, Pytorch and TF
+• Experience with AI/ML inference stacks such as ONNXRuntime, TFlite etc.
+• Experience with GPU/NPU backend acceleration
+21/11/24, 4:09 pm - Nayana Reva: https://career.ninestarsglobal.com/job-details/11
+22/11/24, 11:58 am - Paramesh Sir Mtech: Dear AI students,
+Any update on Ninestars Information Technologies Pvt Ltd?
+22/11/24, 12:43 pm - Paramesh Sir Mtech: @919886625254,
+@919353795528 call me!
+23/11/24, 1:17 pm - Paramesh Sir Mtech: For more Details Visit: https://bmsit.ac.in/comp-sif
+24/11/24, 4:00 pm - Satyam: Anyone who is having minimum of 1 year of experience in AI batch??
+24/11/24, 4:00 pm - Satyam: One of my frnd is hiring so plz let me know
+24/11/24, 4:01 pm - Satyam: <Media omitted>
+24/11/24, 4:02 pm - Satyam: 18 lpa
+03/12/24, 2:32 pm - Paramesh Sir Mtech: <Media omitted>
+05/12/24, 9:31 am - Paramesh Sir Mtech: Good morning all,
+
+Following details needed immediately,
+
+Name - 
+Internship/FT Role -
+Company Name got placed/working -
+05/12/24, 9:36 am - Nayana Reva: Name - Nayana R
+Internship/FT Role - Graduate trainee
+Company Name got placed/working - LTIMindtree and Ecolabs Digital Center <This message was edited>
+05/12/24, 9:36 am - Navya Reva: Name - Navya T C
+Internship/FT Role - Graduate Trainee 
+Company Name got placed/working - LTIMindtree and Ecolab Digital Center <This message was edited>
+05/12/24, 9:41 am - Afreen Reva: Name - Afreen N
+Internship/FT Role - Graduate Trainee 
+Company Name got placed/working - Ecolab Digital Center
+05/12/24, 9:57 am - Revotham Reva: Name:Revotham R
+Role: Security Analyst
+Company: Terralogic Software Solutions Pvt Ltd.
+05/12/24, 10:04 am - Sharanya Reva: Name : Sharanya H Sakri 
+Role : Cybersecurity intern 
+Company: F9 Cybrisk Tech Private Limited.
+05/12/24, 10:11 am - +91 99649 60718: Name: M Shashank
+Role: Security Analyst
+Company: Terralogic Software Solutions Pvt Ltd.
+05/12/24, 10:21 am - +91 97313 96520: Name: Tenzin Namsey
+Role: Security Analyst
+Company: Terralogic Software Solutions Pvt Ltd.
+05/12/24, 10:35 am - +91 63662 45793: Name: D Praveen 
+Role: Security Analyst 
+Company: Terralogic Software Solutions Pvt Ltd.
+05/12/24, 10:39 am - +91 90610 03855: Name : Nikhil Joe Varghese 
+Role: Security Analyst
+Company: Terralogic Software Solutions Pvt Ltd
+05/12/24, 11:17 am - +91 82172 22368: Name : Shrinidhi H.V  
+Role: Security Analyst
+Company: Terralogic Software Solutions Pvt Ltd
+05/12/24, 11:18 am - +91 88678 51462: Name -  Rachita N
+FT Role - Security Analyst 
+Company Name - Terralogic Software Solutions Pvt Ltd
+05/12/24, 12:25 pm - Rahul Reva: Name - B Rahul
+FT Role - GRC Intern
+Company Name - Cytrusst Intelligence Private Limited
+05/12/24, 12:26 pm - Sanjay Mtech Cs: Name -  Sanjay S
+FT Role - Security Analyst 
+Company Name - Terralogic Software Solutions Pvt Ltd
+05/12/24, 1:47 pm - +91 98866 25254: Name - Abhinav Anand
+R&D Intern - AI developer for IoT Security
+Company Name - Centre of Developement for Advanced Computing(CDAC Bengaluru)
+05/12/24, 4:08 pm - Paramesh Sir Mtech: 1. ITAI 2025 (https://scrs.in/conference/itai2025) - Gurugram University, Gurgaon, India | January 24-25, 2025 | Proceedings in SCOPUS indexed Springer Series LNNS 
+2. CRM 2025 (https://scrs.in/conference/crm2025) - SR University, Warangal, India | February 01-02, 2025 | Proceedings in SCOPUS Indexed Springer Book Series SIST. 
+3. ICCCT 2025 (https://scrs.in/conference/iccct2025) - NFSU Goa, India | Feb 14-15, 2025 | Proceedings in SCOPUS indexed Springer Series LNNS 
+4. WCSC 2025 (https://scrs.in/conference/wcsc2025) - BBDU Lucknow, India |  Feb 22-23, 2025 | Proceedings in Springer Book Series SST. 
+5. PEIS 2025 (https://scrs.in/conference/peis2025) - NIT Uttarakhand, India | March 08-09, 2025 | Proceedings in SCOPUS indexed Springer Series LNEE
+6. CML 2025 (https://scrs.in/conference/cml2025) Sikkim Manipal University, Sikkim, India | March 22-23, 2025 | Proceedings in SCOPUS indexed Springer Series LNNS
+7. BIDA 2025 (https://scrs.in/conference/bida2025) RVIM, Bangalore, India | April 12-13, 2025 | Proceedings in SCOPUS indexed Springer Series SIST
+8. CVR 2025 (https://scrs.in/conference/cvr2025) - NIT Goa, India |  April 25-26, 2025 | Proceedings in SCOPUS indexed Springer Series LNNS
+9. AIR 2025 (https://scrs.in/conference/air2025) - Nazarbayev University Kazakhstan | May 09-11, 2025 | Proceedings in SCOPUS indexed Springer Series LNNS
+06/12/24, 2:01 pm - Paramesh Sir Mtech: Dear all,
+
+We will have IA by 3, please have lunch nd come back.
+Sorry for the inconvenience...
+06/12/24, 3:05 pm - +91 94810 90731: This message was deleted
+07/12/24, 9:12 am - Paramesh Sir Mtech: ISRO Offering Cybersecurity Free course with Certificate For College Students, You Can Do in 12 Days, Dont miss Out In 2025 https://www.coursejoiner.com/freeonlinecourses/isro-cybersecurity-free-course/
+08/12/24, 11:25 am - Paramesh Sir Mtech: Good morning,
+
+All Cybersecurity students, check your LMS, all IA score updated. For any queries reach out to Rahul Mohan.
+
+Thank you! <This message was edited>
+10/12/24, 9:07 am - Navya Reva: <Media omitted>
+10/12/24, 9:09 am - +91 63627 79685: And also @919353636544 @917022475579 and Likil Babu S also present here sir
+10/12/24, 9:46 am - Paramesh Sir Mtech: 🤝🎉
+10/12/24, 2:40 pm - Advika Reva: Please rate your communication skills (Minimum 3.5/5 required) : 
+Are you a Full-Stack Developer? (Mandatory) - (Yes/No) : 
+If yes, kindly specify the Frontend, Backend, and Database technologies you excel in: Frontend :       , Backend :               , DB : 
+Share your GitHub portfolio showcasing at least 5 challenging projects completed using the above-mentioned technologies: 
+Although this is not a development role (Cybersecurity Analyst), why are you interested in pursuing this opportunity? :
+anitha.chalil@securin.io
+opening for Intern Security Analyst Role
+10/12/24, 4:10 pm - +91 98866 25254: https://www.youtube.com/live/g7DZuZwuqbk?si=xjICRq34qdffquto
+11/12/24, 11:11 pm - +91 98866 25254: https://artpark.in/careers/sr-mle-genai
