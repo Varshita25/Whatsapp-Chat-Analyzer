@@ -1,6 +1,3 @@
-Here is your updated `README.md` written in clear, simple, and plain English without emojis or technical jargon:
-
----
 
 # WhatsApp Chat Analyzer
 
@@ -15,7 +12,6 @@ You can view:
 * Emoji usage statistics
 * Activity heatmap by day and hour
 
----
 
 ## How to Use
 
@@ -30,7 +26,6 @@ streamlit run app.py
 4. Upload the `.txt` file in the app
 5. Choose a user or select "Overall" to see complete chat analysis
 
----
 
 ## Features
 
@@ -42,7 +37,6 @@ streamlit run app.py
 * Emoji usage count
 * Weekly and hourly activity heatmap
 
----
 
 ## Requirements
 
@@ -52,7 +46,6 @@ Install the necessary Python libraries with:
 pip install -r requirements.txt
 ```
 
----
 
 ## Notes
 
@@ -60,6 +53,6 @@ pip install -r requirements.txt
 * Make sure the chat is exported without media
 * File size should be under 200 MB
 
----
 
-Let me know if you want to add a sample output screenshot or a contribution section.
+
+
