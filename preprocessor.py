@@ -41,4 +41,12 @@ def preprocess(data):
     df['message'] = final_messages
     df.drop(columns=['user_message'], inplace=True)
 
+    # Add time-based features needed for analytics
+    df['year'] = df['date'].dt.year
+    df['month_num'] = df['date'].dt.month
+    df['month'] = df['date'].dt.strftime('%B')
+    df['day_name'] = df['date'].dt.day_name()
+    df['hour'] = df['date'].dt.hour
+    df['only_date'] = df['date'].dt.date
+
     return df
